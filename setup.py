@@ -81,7 +81,7 @@ class GeneratePTH(Command):
 
 setup(
     name='pytest-cov',
-    version='3.0.0',
+    version='3.0.1',
     license='MIT',
     description='Pytest plugin for measuring coverage.',
     long_description='{}\n{}'.format(read('README.rst'), re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))),
